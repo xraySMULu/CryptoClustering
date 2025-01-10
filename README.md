@@ -22,27 +22,27 @@ In this Challenge, you’ll apply your understanding of the K-means algorithm an
 
 **Base Dataframe Plot**
 ![image](Resources/lp11.png)
-Base Dataframe Plot.
+Line Graph
 
 **Scaled Dataframe with Elbow Curve**
 ![image](Resources/lp1.png)
-Scaled Dataframe with Elbow Curve.
+Line Graph
 
 **KMeans Scatter Plot**
 ![image](Resources/sp1.png)
-KMeans Scatter Plot.
+Scatter Plot
 
 **PCA Elbow Curve**
 ![image](Resources/lp2.png)
-PCA Elbow Curve.
+Line Graph
 
 **KMeans with PCA Scatter Plot**
 ![image](Resources/sp2.png)
-KMeans with PCA Scatter Plot.
+Scatter Plot
 
 **Weighted Findings Heatmap**
 ![image](Resources/hm1.png)
-Weighted Findings Heatmap.
+Heatmap
 
 ## Documentation
 https://pandas.pydata.org/docs/reference/frame.html
