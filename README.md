@@ -17,6 +17,33 @@ In this Challenge, you’ll apply your understanding of the K-means algorithm an
 | crypto_clustering.ipynb | Main project markup |
 | Resources/crypto_market_data.csv | Data sourcep |
 
+## Visuals and Explanations
+* To depict the analysis we used line graphs, scatter plots and heatmaps. Below is a sample of each as well as the location of the code.
+
+**Base Dataframe Plot**
+![image](Resources/lp11.png)
+Base Dataframe Plot.
+
+**Scaled Dataframe with Elbow Curve**
+![image](Resources/lp1.png)
+Scaled Dataframe with Elbow Curve.
+
+**KMeans Scatter Plot**
+![image](Resources/sp1.png)
+KMeans Scatter Plot.
+
+**PCA Elbow Curve**
+![image](Resources/lp2.png)
+PCA Elbow Curve.
+
+**KMeans with PCA Scatter Plot**
+![image](Resources/sp2.png)
+KMeans with PCA Scatter Plot.
+
+**Weighted Findings Heatmap**
+![image](Resources/hm1.png)
+Weighted Findings Heatmap.
+
 ## Documentation
 https://pandas.pydata.org/docs/reference/frame.html
 
